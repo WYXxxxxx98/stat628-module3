@@ -15,3 +15,7 @@ Voodoo_and_five-star_bakeries: Comparing the difference between all 5-star baker
 convert_json_to_csv: Converting the .json files to the .csv files for later analysis.
 
 tree_plot: Buliding the regression tree using all selected variables and ploting the tree.
+
+Jinghao Liu:
+
+
